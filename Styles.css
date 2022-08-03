@@ -1,0 +1,42 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+body {
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    top: 15%;
+    background: linear-gradient(to right, yellow, red);
+}
+
+h3 {
+    color: rgba(252, 252, 252, 0.5);
+    text-align: center;
+    text-transform: none;
+}
+
+h6 {
+    color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    text-transform: none;
+}
+
+.random-button {
+    background-color: orangered;
+    border: white;
+    border-radius: 2px;
+    color: rgba(0, 0, 0, 0.5);
+    padding: 15px 12px;
+    font-family: "Raleway", sans-serif;
+}
+
+.random {
+    margin-top: 10px;
+}
